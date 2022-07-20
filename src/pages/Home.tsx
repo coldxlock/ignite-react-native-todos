@@ -10,6 +10,7 @@ export function Home() {
 
   function handleAddTask(newTaskTitle: string) {
     //TODO - add new task
+    setTasks(newTaskTitle);
   }
 
   function handleToggleTaskDone(id: number) {
