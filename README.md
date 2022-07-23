@@ -1,13 +1,7 @@
 # Desafio 01 - ReactNative -  TO.DOS
 
-<h1 align="center">To.Do</h1>
----
-
-<br>
-
-
 <h1 align="center">
-  <img alt="TodoApp" title="TodoApp" src="./.gif" height="425" />
+  <img alt="TodoApp" title="TodoApp" src="./github/desafio-1-principal.gif" height="425" />
 
 </h1>
 
