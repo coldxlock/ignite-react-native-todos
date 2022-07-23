@@ -54,7 +54,7 @@ export function TasksList({ tasks, toggleTaskDone, removeTask }: TasksListProps)
                   //TODO - use style prop
                   style={ !item.done ? styles.taskText : styles.taskTextDone}
                 >
-                  {item.title} | id: { item.id}
+                  {item.title}
                 </Text>
               </TouchableOpacity>
             </View>

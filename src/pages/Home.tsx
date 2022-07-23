@@ -31,6 +31,17 @@ export function Home() {
 
       setTasks(updatedTask);
     }
+
+    //## Forma mais correta 
+    // const updatedTask = tasks.map(task => ({...task});
+
+    // const foundItem = updatedTask.find(item => item.id === id);
+
+    // if (!foundItem)
+    //   return;
+
+    // foundItem.done = !foundItem.done;
+    // setTasks(updatedTask);
   }
 
   function handleRemoveTask(id: number) {
