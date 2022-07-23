@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img alt="TodoApp" title="TodoApp" src="./github/desafio-1-principal-add.gif" height="425" />
-  <img alt="TodoApp" title="TodoApp" src="./github/desafio-1-principal-toggle-remove" height="425" />
+  <img alt="TodoApp" title="TodoApp" src="./github/desafio-1-principal-toggle-remove.gif" height="425" />
 
 </h1>
 
